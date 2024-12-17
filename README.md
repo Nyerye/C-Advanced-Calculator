@@ -1,6 +1,6 @@
 # C# WPF Calculator
 
-A simple calculator application built using C# and WPF (Windows Presentation Foundation) to perform basic arithmetic operations such as addition, subtraction, multiplication, division, and modulus. This project demonstrates the implementation of a functional calculator UI and basic mathematical operations.
+A simple calculator application built using C# and WPF (Windows Presentation Foundation) to perform basic arithmetic operations such as addition, subtraction, multiplication, division. This project demonstrates the implementation of a functional calculator UI and basic mathematical operations.
 
 ## Features
 - **Basic Arithmetic**: Addition, Subtraction, Multiplication, Division, and Modulus operations.
